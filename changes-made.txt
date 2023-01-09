@@ -1,4 +1,10 @@
 All the Changes made by me:
 --------------------------
 
-1. I have updated the repo folder structure as per it should be.
+1. I have updated the repo folder and file structure as per it should be.
+
+2. Put all the css file in one location and import from index.css file
+
+3. I have updated to function component from Class Component structure as React recommended to use function Component.
+
+4. Instead of setState, I have used hooks such as useState.
