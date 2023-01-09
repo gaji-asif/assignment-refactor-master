@@ -10,3 +10,5 @@ All the Changes made by me:
 4. Instead of setState, I have used hooks such as useState.
 
 5. Every other component file like button.tsx, form.tsx and product-list-component.tsx files need to be changed to function component from class component. 
+
+6. I have used axios for API consume and made a service file for this and refactor the existing codebase for this.
