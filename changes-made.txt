@@ -12,3 +12,6 @@ All the Changes made by me:
 5. Every other component file like button.tsx, form.tsx and product-list-component.tsx files need to be changed to function component from class component. 
 
 6. I have used axios for API consume and made a service file for this and refactor the existing codebase for this.
+
+
+*** their are lots of inline css all over the code. those must be need to changed and moved in a separate file ***
