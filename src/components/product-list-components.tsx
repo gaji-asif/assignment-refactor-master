@@ -1,7 +1,7 @@
 import * as React from "react";
 import lodash from 'lodash'
 import { FaStar } from "react-icons/fa";
-import styles from "./product-list-components.module.css";
+import styles from "../sass/components/product-list-components.module.css";
 
 interface IPostsProps {
   products: any;
