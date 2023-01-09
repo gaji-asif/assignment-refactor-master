@@ -2,10 +2,12 @@ import * as React from "react";
 import { Button } from "./button";
 import styles from "../sass/components/form.module.css";
 
+// product type
 type IFormProps = {
   "on-submit": (payload: { title: string; description: string; price: string }) => void;
 }
 
+// these should be functional component
 export const Form: React.FC<IFormProps> = (props) => {
   let formRef = React.useRef<HTMLFormElement>(null);
   let titleRef = React.useRef<HTMLInputElement>(null);

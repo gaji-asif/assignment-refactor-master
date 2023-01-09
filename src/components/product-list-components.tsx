@@ -8,7 +8,7 @@ interface IPostsProps {
   onFav: (title: string) => void;
 }
 
-
+// these should be function component
 export default class Posts extends React.Component<IPostsProps, {}> {
   constructor(props: any) { super(props) }
   render(){

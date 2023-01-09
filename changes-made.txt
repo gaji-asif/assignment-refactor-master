@@ -5,6 +5,8 @@ All the Changes made by me:
 
 2. Put all the css file in one location and import from index.css file
 
-3. I have updated to function component from Class Component structure as React recommended to use function Component.
+3. I have updated(ShopApp.tsx file) to function component from Class Component structure as React recommended to use function Component.
 
 4. Instead of setState, I have used hooks such as useState.
+
+5. Every other component file like button.tsx, form.tsx and product-list-component.tsx files need to be changed to function component from class component. 
