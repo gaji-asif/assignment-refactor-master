@@ -1,4 +1,4 @@
-# Developer at Droppe - React refactoring task
+# This is a Refactored React Project
 
 ## Available Scripts
 
